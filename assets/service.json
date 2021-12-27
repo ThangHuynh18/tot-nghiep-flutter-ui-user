@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flutter-thang-watch",
+  "private_key_id": "e659e2d60d533290cf48cb366d5c2403476c2e47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9+q/ubG5ZLNJm\nirQ/40HF4F5gY9oYq412Jh6D+2uMJsINeMiIRF9sMrlOBg1nchu/2EIibXG/ZUlO\nuxz9Z9AE4I5PyFywCr6qqic/E7CbeoZ3dyBijXIXHzTzehG3n6y4DzCB9P7LLiAK\nA+APIZQEdHagg2U80iwtuO3DYff1jI/WC32rBr+iL+yB25/q5mwosl4a+vC/b5w6\n+N1JpDY3r7m9XdQ4x0oNLkUP7NxIvbExd5nVKqRBUQ1UwCrboJepuiXZAlKNWTV6\n3xreRMwe0JxV1+djSX3q6k4HYsaGRXcpNk77W9ypsYKKFvWMV1k3sYF+Rb1sG8Jx\nB3/k+juRAgMBAAECggEAEhPz1S/+RCrEDrvuMRIoD8is/REjZNZA94LjGSi98C/p\nUVeIBZI0CQYT+hJmCMz5SlqC2JHU5s31mYdWrTUevLK9orvsjgKdEtJu5PgJBeff\n5H2yguOg0rBxMntlijVTPeSRd3G1I+fMvAc9tVLlqegx4vj96OQQY31wf/d88qGh\nPtIU4etfglYu0tQw22l6quF+i9nEnFajnGVRnl3EqsxRcLIf30UDWUNkQmm35+SO\n1UZ9Tue1plWOCflZ36+yy537JCIhS4h7PKZLawjf5vhUTGqnpxdbKfKKfB2Bk1GR\npE+EC1fFdLr/sNoP0s6LwhK2geNsksIXPT6xcqj1/QKBgQDdywFsA7Q6yXPovC0p\nHmuFKq/JmWc1FYaITeC1kYxfEyT3C28/rWX/WrIygoRg+eMxUNZnqwTbWK84S6mt\n42YhWuETMf1eqjM0xJiydahvNpXjW2VtO3WEMpko0zGiuC0geUpsTavvqaDczn2m\nO+tt1cfh6r/t+tRldByids/c7wKBgQDbR5aGrDlg/qZR+LSs6yvn1ukOlnHgHI1c\nbqn6HLCx1ScDdRKxxPbBhmFo41cCPal4UUVJ+JKLPIsMREr/PxIJJMt3y1nW9gbe\nf52wx4+A1QIzIB58jAC1kJ7LMiPMNkmBEbWMYkzQAyAGFS36X7fMGsEHVsyaKoXT\n0DCNffBvfwKBgDEh5YC+GVDki67E8OQo/vyTBjoMp5ZU3GaZievvAD+XiBrKB6z9\nhpjYyJzz2Mt6z99+3uA8PGky7i30ZPRGabt93FpaOpyb65gG7SSrd9KbLv0cpA1c\nnJ3ab59hmZ9IWYbWF6yCUFJZK29+tsr6fx7nus3LKRVY+XA4FpfO5iE1AoGAUeMo\nCV7jhp9SSSZRgonIOan+Gp6AJCtFdxE0lNyF98Mb8KSVuKFPbPHcCqlrYsDYOsBO\n2dLkFu8jFg+i2jMZbyS4fyIHiMkTw59wqgW8R2ZEjgcem3BFC4jYZBVzXN2hEXwl\niiljegLQwLTEGM4J+0S6dR0rBx9+Hp2OpCg1080CgYBPqmOlKHnVp4rBgVce+fJq\nH0/yyHjjpFPqupHjFpZ16qLNZ8mcbiicai3kMwCDV1XnbbrqdBhBuaCKo8hB0KEV\n+g+VIt4e+BZdx8Jp8ZolrTfLKy22+h5aA0PjAcYZ6U+p0cnWZ4EhEhFQaJ7YTD8n\njZvJT3DAnBZ2nsQcvjo0Mw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "thanghuynh@flutter-thang-watch.iam.gserviceaccount.com",
+  "client_id": "105592545897515096642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thanghuynh%40flutter-thang-watch.iam.gserviceaccount.com"
+}
